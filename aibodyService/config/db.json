@@ -1,0 +1,8 @@
+{
+    "dev": {
+        "dbname": "aibody",
+        "host": "localhost",
+        "username": "root",
+        "password": "123456"
+    }
+}
